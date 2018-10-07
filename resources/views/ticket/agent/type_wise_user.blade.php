@@ -1,0 +1,1 @@
+{!! Form::select('assigned_id', $typeWiseUserList, null, ['class' => 'form-control', 'id' => 'assigned_id']) !!}

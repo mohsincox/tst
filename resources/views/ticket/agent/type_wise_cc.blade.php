@@ -1,0 +1,2 @@
+{!! Form::select('cc_to[]', $ccUserList, $ccUserArr, ['class' => 'form-control js-example-basic-multiple', 'id' => 'cc_to', 'multiple' => 'multiple', 'style' => 'pointer-events: none;']) !!}
+<!-- {!! Form::select('cc_to[]', $ccUserList, [2, 1, 6], ['class' => 'form-control js-example-basic-multiple', 'id' => 'cc_to', 'multiple' => 'multiple', 'style' => 'pointer-events: none;']) !!} -->
